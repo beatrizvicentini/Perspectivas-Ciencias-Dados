@@ -5,3 +5,5 @@ Repositório criado para as atividades do curso de Perspectivas em Ciências de 
 20/03
 Estamos testando o comando pull.
 
+27/03
+Finalizando exercícios de github antes de iniciar aula de webscrapping.
